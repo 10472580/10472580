@@ -1,3 +1,4 @@
+<img src="https://raw.githubusercontent.com/10472580/10472580/master/assets/terminal.gif" alt="Here is a little bit about me!">
 
 <h2> Hey there! I'm Aditya.</h2>
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">

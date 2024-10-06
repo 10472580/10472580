@@ -1,4 +1,4 @@
-<h2> Hey there! </h2>
+<h1> Hey there! </h1>
 
 <img src="https://raw.githubusercontent.com/10472580/10472580/master/assets/terminal.gif" alt="Here is a little bit about me!">
 
@@ -82,8 +82,6 @@
 </a>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 
 

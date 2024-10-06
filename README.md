@@ -74,6 +74,7 @@
   </tbody>
 </table>
 
+<br/>
 
 <a href="https://github.com/10472580">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=10472580&theme=buefy&show_icons=true" />

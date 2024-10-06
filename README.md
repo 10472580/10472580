@@ -1,6 +1,6 @@
 <h1> Hey there! </h1>
 
-<img src="https://raw.githubusercontent.com/10472580/10472580/master/assets/terminal.gif" alt="Here is a little bit about me!">
+<img src="https://raw.githubusercontent.com/10472580/10472580/master/assets/dev-working_rounded.gif" alt="Here is a little bit about me!">
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
